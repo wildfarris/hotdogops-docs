@@ -1,0 +1,55 @@
+- TODO - Migrate [[HAProxy]] from 27 to 3
+- TODO - Migrate [[syslog]] from 25 to 6
+- TODO - Migrate [[cloudflared]] from 21 to 8
+- TODO - Migrate [[cloudflared-ha]] from 22 to 9
+- TODO - Migrate [[gitlab1]] from 35 to 16
+- TODO - Migrate [[gitlab-pages]] from 37 to 17
+- TODO - Migrate [[gitlab-runner]] from 36 to 18
+- TODO - Migrate [[amp1]] from 81 to 20
+- TODO - Decom [[gitea]], [[gitea-runner]], [[amp2]], [[amp3]]
+- 1 - [[firewall]]
+- 3 - [[HAProxy]] - NEW
+- 5 - [[switch]]
+- 6 - [[syslog]] - NEW
+- 8 - [[cloudflared]] - NEW
+- 9 - [[cloudflared-ha]] - NEW
+- 11 - [[proxmox1]]
+- 12 - [[proxmox2]]
+- 13 - [[proxmox3]]
+- 16 - [[gitlab1]] - NEW
+- 17 - [[gitlab-pages]] - NEW
+- 18 - [[gitlab-runner]] - NEW
+- 20 - [[amp1]] - NEW
+- 21 - [[cloudflared]] - OLD
+- 22 - [[cloudflared-ha]] - OLD
+- 25 - [[syslog]] - OLD
+- 27 - [[HAProxy]] - OLD
+- 30 - [[gitea]] - DECOM
+- 31 - [[gitea-runner]] - DECOM
+- 35 - [[gitlab1]] - OLD
+- 36 - [[gitlab-runner]] - OLD
+- 37 - [[gitlab-pages]] - OLD
+- 81 - [[amp1]] - OLD
+- 82 - [[amp2]] - DECOM
+- 83 - [[amp3]] - DECOM
+- 100 - 120 - DHCP
+- 128 - 159 - Dev Metallb
+- 160 - 191 - Prod Metallb
+- 200 - [[talos-dev.lab.phares.io]]
+- 201 - [[talosdev1]]
+- 202 - [[talosdev2]]
+- 203 - [[talosdev3]]
+- 204 - [[talosdev4]]
+- 205 - [[talosdev5]]
+- 206 - [[talosdev6]]
+- 210 - [[talos-prod.lab.phares.io]]
+- 211 - [[talosprod1]]
+- 212 - [[talosprod2]]
+- 213 - [[talosprod3]]
+- 214 - [[talosprod4]]
+- 215 - [[talosprod5]]
+- 216 - [[talosprod6]]
+- 217 - [[talosprod7]]
+- 218 - [[talosprod8]]
+- 219 - [[talosprod9]]
+- 240 - [[NAS]]

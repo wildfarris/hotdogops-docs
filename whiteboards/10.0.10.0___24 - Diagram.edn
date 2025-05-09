@@ -1,0 +1,272 @@
+{:blocks (
+{:block/created-at 1746811548525
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:rotation 0
+:borderRadius 0
+:index 0
+:scale [1 1]
+:scaleLevel "sm"
+:fill ""
+:type "text"
+:size [176 644]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "37afe760-2cd0-11f0-a144-3b151f1a1806"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [-256 -512]
+:lineHeight 1.2
+:fontSize 16
+:parentId "681df306-735b-490b-a726-712ed37fde21"
+:nonce 1746793326127
+:italic false
+:text "10.0.10.0/27\n\n1 - [[firewall]]\n2 -\n3 - [[HAProxy]] \n4\n5 - [[switch]] \n6 - [[syslog]] \n7\n8 - [[cloudflared]] \n9 - [[cloudflared-ha]] \n10\n11 - [[proxmox1]] \n12 - [[proxmox2]] \n13 - [[proxmox3]]\n14\n15\n16 - [[gitlab1]] \n17 - [[gitlab-pages]]\n18 - [[gitlab-runner]]\n19\n20\n21\n22 \n23 \n24 - [[amp1]]\n25\n26\n27\n28\n29\n30\n31"}}
+:block/updated-at 1746811548525} 
+{:block/created-at 1746810976516
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 1
+:scale [1 1]
+:scaleLevel "sm"
+:fill ""
+:type "text"
+:size [302 644]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "59443f70-2cd0-11f0-a144-3b151f1a1806"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [128 -512]
+:lineHeight 1.2
+:fontSize 16
+:parentId "681df306-735b-490b-a726-712ed37fde21"
+:nonce 1746793381989
+:italic false
+:text "10.0.10.32/27 \n\n33 - DHCP\n34 - DHCP\n35 - DHCP\n36 - DHCP \n37 - DHCP\n38 - DHCP\n39 - DHCP\n40 - DHCP \n41 - DHCP\n42 - DHCP\n43 - DHCP\n44 - DHCP\n45 - DHCP\n46 - DHCP\n47 - DHCP\n48 - [[sandbox.k8s.lab.phares.io]]\n49 - [[talos-sandbox1]]\n50 - RESERVED\n51 - RESERVED\n52 - RESERVED\n53 - RESERVED\n54 - RESERVED\n55 - RESERVED\n56 - [[sandbox-dns.k8s.lab.phares.io]]\n57 - metallb\n58 - metallb\n59 - metallb\n60 - metallb\n61 - metallb\n62 - metallb\n63 - metallb"}}
+:block/updated-at 1746810976516} 
+{:block/created-at 1746810981890
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 2
+:scale [1 1]
+:scaleLevel "sm"
+:fill ""
+:type "text"
+:size [278 644]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "d524db90-2ce9-11f0-a144-3b151f1a1806"
+:padding 4
+:fontWeight 400
+:noFill true
+:isLocked false
+:point [896 -512]
+:lineHeight 1.2
+:fontSize 16
+:parentId "681df306-735b-490b-a726-712ed37fde21"
+:nonce 1746793382493
+:italic false
+:text "10.0.10.96/27\n\n97 - [[prod.k8s.lab.phares.io]]\n98 - [[talos-prod1]]\n99 - [[talos-prod2]]\n100 - [[talos-prod3]]\n101 - [[talos-prod3]]\n102 - [[talos-prod4]]\n103 - [[talos-prod5]]\n104 - [[talos-prod6]]\n105 - [[talos-prod7]]\n106 - [[talos-prod8]]\n107 - [[talos-prod9]]\n108 - RESERVED\n109 - RESERVED\n110 - RESERVED\n111 - RESERVED\n112 - [[prod-dns.k8s.lab.phares.io]]\n113 - metallb\n114 - metallb\n115 - metallb\n116 - metallb\n117 - metallb\n118 - metallb\n119 - metallb\n120 \n121 \n122 \n123 \n124 \n125 \n126 \n127"}}
+:block/updated-at 1746810981890} 
+{:block/created-at 1746812931352
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 7
+:scale [1 1]
+:refs ["681d5322-3daf-4cb9-841a-9c488c7cbee8"]
+:scaleLevel "sm"
+:fill ""
+:type "text"
+:size [265 644]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "3602adc0-2cea-11f0-a144-3b151f1a1806"
+:padding 4
+:fontWeight 400
+:noFill true
+:isLocked false
+:point [504 -512]
+:lineHeight 1.2
+:fontSize 16
+:parentId "681df306-735b-490b-a726-712ed37fde21"
+:nonce 1746793383145
+:italic false
+:text "10.0.10.64/27\n\n65 - [[dev.k8s.lab.phares.io]]\n66 - [[talos-dev1]]\n67 - [[talos-dev2]]\n68 - [[talos-dev3]]\n69 - [[talos-dev4]]\n70 - [[talos-dev5]]\n71 - [[talos-dev6]]\n72 - RESERVED\n73 - RESERVED\n74 - RESERVED\n75 - RESERVED\n76 - RESERVED\n77 - RESERVED\n78 - RESERVED\n79 - RESERVED\n79 - [[dev-dns.k8s.lab.phares.io]]\n81 - metallb\n82 - metallb\n83 - metallb\n84 - metallb\n85 - metallb\n86 - metallb\n87 - metallb\n88 - \n89 - \n90 - \n91 - \n92 - \n93 - \n94 - \n95 -"}}
+:block/updated-at 1746812931352} 
+{:block/created-at 1746810974050
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:rotation 0
+:borderRadius 0
+:index 6
+:scale [1 1]
+:scaleLevel "sm"
+:fill ""
+:type "text"
+:size [197 644]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "bde22810-2cea-11f0-a144-3b151f1a1806"
+:padding 4
+:fontWeight 400
+:noFill true
+:isLocked false
+:point [-256 256]
+:lineHeight 1.2
+:fontSize 16
+:parentId "681df306-735b-490b-a726-712ed37fde21"
+:nonce 1746793326661
+:italic false
+:text "10.0.10.128/27\n\n129 - TalosDev - Metallb\n130 - TalosDev - Metallb\n131 - TalosDev - Metallb\n132 - TalosDev - Metallb\n133 - TalosDev - Metallb\n134 - TalosDev - Metallb\n135 - TalosDev - Metallb\n136 - TalosDev - Metallb\n137 - TalosDev - Metallb\n138 - TalosDev - Metallb\n139 - TalosDev - Metallb\n140 - TalosDev - Metallb\n141 - TalosDev - Metallb\n142 - TalosDev - Metallb\n143 - TalosDev - Metallb\n144 - TalosDev - Metallb\n145 - TalosDev - Metallb\n146 - TalosDev - Metallb\n147 - TalosDev - Metallb\n148 - TalosDev - Metallb\n149 - TalosDev - Metallb\n150 - TalosDev - Metallb\n151 - TalosDev - Metallb\n152 - TalosDev - Metallb\n153 - TalosDev - Metallb\n154 - TalosDev - Metallb\n155 - TalosDev - Metallb\n156 - TalosDev - Metallb\n157 - TalosDev - Metallb\n158 - TalosDev - Metallb\n159 - TalosDev - Metallb"}}
+:block/updated-at 1746810974050} 
+{:block/created-at 1746810976523
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 3
+:scale [1 1]
+:scaleLevel "sm"
+:fill ""
+:type "text"
+:size [203 644]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "bde22811-2cea-11f0-a144-3b151f1a1806"
+:padding 4
+:fontWeight 400
+:noFill true
+:isLocked false
+:point [128 256]
+:lineHeight 1.2
+:fontSize 16
+:parentId "681df306-735b-490b-a726-712ed37fde21"
+:nonce 1746793382403
+:italic false
+:text "10.0.10.160/27 \n\n161 - TalosProd - Metallb\n162 - TalosProd - Metallb\n163 - TalosProd - Metallb\n164 - TalosProd - Metallb\n165 - TalosProd - Metallb\n166 - TalosProd - Metallb\n167 - TalosProd - Metallb\n168 - TalosProd - Metallb\n169 - TalosProd - Metallb\n170 - TalosProd - Metallb\n171 - TalosProd - Metallb\n172 - TalosProd - Metallb\n173 - TalosProd - Metallb\n174 - TalosProd - Metallb\n175 - TalosProd - Metallb\n176 - TalosProd - Metallb\n177 - TalosProd - Metallb\n178 - TalosProd - Metallb\n179 - TalosProd - Metallb\n180 - TalosProd - Metallb\n181 - TalosProd - Metallb\n182 - TalosProd - Metallb\n183 - TalosProd - Metallb\n184 - TalosProd - Metallb\n185 - TalosProd - Metallb\n186 - TalosProd - Metallb\n187 - TalosProd - Metallb\n188 - TalosProd - Metallb\n189 - TalosProd - Metallb\n190 - TalosProd - Metallb\n191 - TalosProd - Metallb"}}
+:block/updated-at 1746810976523} 
+{:block/created-at 1746810981892
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 4
+:scale [1 1]
+:scaleLevel "sm"
+:fill ""
+:type "text"
+:size [120 644]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "bde22812-2cea-11f0-a144-3b151f1a1806"
+:padding 4
+:fontWeight 400
+:noFill true
+:isLocked false
+:point [896 256]
+:lineHeight 1.2
+:fontSize 16
+:parentId "681df306-735b-490b-a726-712ed37fde21"
+:nonce 1746793382542
+:italic false
+:text "10.0.10.224/27\n224\n225\n226\n227\n228\n229\n230\n231\n232\n233\n234\n235\n236\n237\n238\n239\n240 - [[NAS]]\n241\n242\n243\n244\n245\n246\n247\n248\n249\n250\n251\n252\n253\n254\n255 - N/A"}}
+:block/updated-at 1746810981892} 
+{:block/created-at 1746810979041
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 5
+:scale [1 1]
+:scaleLevel "sm"
+:fill ""
+:type "text"
+:size [258 644]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "bde22813-2cea-11f0-a144-3b151f1a1806"
+:padding 4
+:fontWeight 400
+:noFill true
+:isLocked false
+:point [504 256]
+:lineHeight 1.2
+:fontSize 16
+:parentId "681df306-735b-490b-a726-712ed37fde21"
+:nonce 1746793382791
+:italic false
+:text "10.0.10.192/27\n\n193\n194\n195\n196\n197\n198\n199\n200 - [[talos-dev.lab.phares.io]]\n201 - [[talosdev1]] \n202 - [[talosdev2]]\n203 - [[talosdev3]] \n204 - [[talosdev4]] \n205 - [[talosdev5]] \n206 - [[talosdev6]] \n207\n208\n209\n210 - [[talos-prod.lab.phares.io]]\n211 - [[talosprod1]] \n212 - [[talosprod2]] \n213 - [[talosprod3]] \n214 - [[talosprod4]] \n215 - [[talosprod5]] \n216 - [[talosprod6]] \n217 - [[talosprod7]] \n218 - [[talosprod8]] \n219 - [[talosprod9]] \n220\n221\n222\n223"}}
+:block/updated-at 1746810979041} 
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "681df306-735b-490b-a726-712ed37fde21"}
+:block/parent 
+{:block/uuid #uuid "681df306-735b-490b-a726-712ed37fde21"}
+:block/properties 
+{}
+:block/uuid #uuid "681e3d4b-7d3d-49a3-b630-571cb6527d11"})
+:pages (
+{:block/uuid #uuid "681df306-735b-490b-a726-712ed37fde21"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "681df306-735b-490b-a726-712ed37fde21"
+:name "10.0.10.0/24 - diagram"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("37afe760-2cd0-11f0-a144-3b151f1a1806" "59443f70-2cd0-11f0-a144-3b151f1a1806" "d524db90-2ce9-11f0-a144-3b151f1a1806" "bde22811-2cea-11f0-a144-3b151f1a1806" "bde22812-2cea-11f0-a144-3b151f1a1806" "bde22813-2cea-11f0-a144-3b151f1a1806" "bde22810-2cea-11f0-a144-3b151f1a1806" "3602adc0-2cea-11f0-a144-3b151f1a1806")}}
+:block/journal? false
+:block/namespace 
+{:db/id 121}
+:block/updated-at 1746812931352
+:block/created-at 1746793222891
+:block/format :markdown
+:block/type "whiteboard"
+:block/name "10.0.10.0/24 - diagram"
+:block/original-name "10.0.10.0/24 - Diagram"})}

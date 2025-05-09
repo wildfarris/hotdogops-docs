@@ -2,7 +2,6 @@
 	- external-connectivity:: [[Spectrum]], [[Verizon]]
 	  internal-subnets:: [[Home]], [[Lab]]
 	  hosted-services:: [[HAProxy]]
-	  test
 - ## NAS
 	- hosted-services:: [[PBS]], [[QuObjects]], [[NFS]]
 - ## Virtualization

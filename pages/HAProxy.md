@@ -139,6 +139,14 @@
 	- Suwayomi
 	  id:: 681ebfd1-46be-4a19-aadd-aa6a6edee0f4
 		- ```
+		  mode   http
+		  id   118
+		  log   global
+		  timeout connect  30000
+		  timeout server  30000
+		  retries   3
+		  load-server-state-from-file global
+		  timeout tunnel 3600ssu
 		  ```
 	- Calibre-web
 	  id:: 681ebfdb-afba-474e-8858-f717bbb60a30

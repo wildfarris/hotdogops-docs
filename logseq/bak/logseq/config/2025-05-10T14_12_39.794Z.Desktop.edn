@@ -423,4 +423,4 @@
  :feature/enable-journals? false
  :default-home {:page "Summary"}
  :feature/enable-flashcards? false
- :publishing/all-pages-public? false}
+ :publishing/all-pages-public? true}

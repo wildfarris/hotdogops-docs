@@ -1,5 +1,5 @@
+public::  true
 alias:: home
-public:: true
 
 - ## Firewall
 	- External Connectivity: [[Spectrum]] (Tier 1), [[Verizon]] (Tier 2)

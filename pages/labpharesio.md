@@ -1,4 +1,8 @@
-## HA Groups
+## Hosts
+- {{embed [[proxmox1]]}}
+- hosts:: [[proxmox1]], [[proxmox2]], [[proxmox3]]
+  hosted-services:: [[ceph]]
+- ## HA Groups
 	- PVE1
 		- priority-config:: 1: [[proxmox1]] , 2: [[proxmox2]], [[proxmox3]]
 		  assigned-vms:: [[talos-dev1]], [[talos-dev4]], [[talos-prod1]], [[talos-prod4]], [[talos-prod7]]

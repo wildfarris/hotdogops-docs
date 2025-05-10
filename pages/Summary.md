@@ -5,8 +5,7 @@
 - ## NAS
 	- hosted-services:: [[PBS]], [[QuObjects]], [[NFS]]
 - ## Virtualization
-	- hosts:: [[proxmox1]], [[proxmox2]], [[proxmox3]]
-	  hosted-services:: [[ceph]]
+	- cluster:: {{embed [[labpharesio]]}}
 - ## Kubernetes Clusters
 	- {{embed [[Prod]]}}
 	- {{embed [[Dev]]}}

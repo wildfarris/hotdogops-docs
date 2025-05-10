@@ -1,6 +1,6 @@
 ## Firewall
 	- external-connectivity:: [[Spectrum]], [[Verizon]]
-	  internal-subnets:: [[Home]], [[Lab]]
+	  internal-subnets:: [Home]([[Home Network]]), [Lab]([[Lab Network]])
 	  hosted-services:: [[DNS Resolver]], [[DHCP]], [[HAProxy]]
 - ## NAS
 	- hosted-services:: [[PBS]], [[QuObjects]], [[NFS]]

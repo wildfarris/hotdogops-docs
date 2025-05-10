@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites []
+ :favorites ["summary" "lab network" "10.0.10.0/24 - notes" "prod" "dev" "sandbox"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -421,5 +421,6 @@
  :file/name-format :triple-lowbar
  :ui/show-brackets? false
  :feature/enable-journals? false
- :default-home {:page "IP Scheme"}
- :feature/enable-flashcards? false}
+ :default-home {:page "Summary"}
+ :feature/enable-flashcards? false
+ :publishing/all-pages-public? true}

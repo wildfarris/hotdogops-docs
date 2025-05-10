@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["summary" "lab network" "prod" "dev" "sandbox"]
+ :favorites ["lab network" "summary" "10.0.10.0/24 - notes" "prod" "dev" "sandbox"]
 
  ;; Set flashcards interval.
  ;; Expected value:

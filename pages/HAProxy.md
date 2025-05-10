@@ -1,9 +1,8 @@
-## Shared Configuration
-	- ip:: 10.0.10.27 (Future: 10.0.10.3)
-- ## Frontends
-	- ### Library
+## Frontends
+	- ### Websites
 		- |Listen Address|Port|SSL Offloading|
-		  |10.0.10.27|443||
+		  |10.0.10.27|443|Enabled|
+		  |10.0.10.27|8443|Enabled|
 		- |Rule|Backend|
 		  ||((681ebc8d-6c90-4b87-992c-b706a3a69c92))|
 		  ||((681ebc28-d902-4b1a-9eca-e7445cdb3aeb))|
@@ -13,7 +12,7 @@
 		  ||((681ebfd1-46be-4a19-aadd-aa6a6edee0f4))|
 		  ||((681ebfdb-afba-474e-8858-f717bbb60a30))|
 		  |Default|((681ebc8d-6c90-4b87-992c-b706a3a69c92))|
-	- ### Websites
+	- ### Library
 - ## Backends
 	- Backup-Server
 	  id:: 681ebc16-85cf-44a3-b5e8-6af4e45ad73d

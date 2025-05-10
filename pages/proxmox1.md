@@ -1,5 +1,5 @@
 ip-address:: 10.0.10.11
-cpus:: 16
+cpu-threads:: 16
 ram:: 64 GB
-hdd:: 1 TB, 1 TB
+hdd:: 1 TB (/dev/sda1), 1 TB (/dev/nvme0n1)
 cluster:: [[labpharesio]]

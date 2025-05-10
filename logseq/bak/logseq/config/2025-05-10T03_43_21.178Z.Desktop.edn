@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["sandbox" "Summary"]
+ :favorites ["summary" "lab network" "prod" "dev" "sandbox"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -422,4 +422,5 @@
  :ui/show-brackets? false
  :feature/enable-journals? false
  :default-home {:page "Summary"}
- :feature/enable-flashcards? false}
+ :feature/enable-flashcards? false
+ :publishing/all-pages-public? true}
